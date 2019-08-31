@@ -37,9 +37,9 @@ If you already have a GitHub profile (obviously)
 
 Voila! Your site should be live at `https://{username}.github.io`
 
-Here's my **Static Dev Landing Page**  - [Dinesh Pandiyan - Portfolio](https://portfoliov1.dineshpandiyan.com) **Original One **
+Here's my **Static Dev Landing Page**  - [Dinesh Pandiyan - Portfolio](https://portfoliov1.dineshpandiyan.com) => ** **Original One** **
 
-Here's my **Dynamic Dev Landing Page**  - [Dinesh Pandiyan - Portfolio](https://portfoliov1.dineshpandiyan.com) **My Branch**
+Here's my **Dynamic Dev Landing Page**  - [Dinesh Pandiyan - Portfolio](https://portfoliov1.dineshpandiyan.com) => ** **My Branch** **
 
 ### Custom Domain
 
