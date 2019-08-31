@@ -12,6 +12,12 @@ So I sat down one night and created this **Dev Landing Page**. Feel free to fork
 
 ## Themes
 
+### My Branch ->
+
+You get a new theme every time you refresh. 
+
+### Original Branch ->
+
 Dev Landing Page comes in 9 **material themes**.
 
 ![9 Material Themes](https://image.ibb.co/jJVKCn/dev_landing_page_themes.jpg)
@@ -31,7 +37,9 @@ If you already have a GitHub profile (obviously)
 
 Voila! Your site should be live at `https://{username}.github.io`
 
-Here's my **Dev Landing Page** - [Dinesh Pandiyan - portfolio v1](https://portfoliov1.dineshpandiyan.com)
+Here's my **Static Dev Landing Page**  - [Dinesh Pandiyan - Portfolio](https://portfoliov1.dineshpandiyan.com) **Original One **
+
+Here's my **Dynamic Dev Landing Page**  - [Dinesh Pandiyan - Portfolio](https://portfoliov1.dineshpandiyan.com) **My Branch**
 
 ### Custom Domain
 
